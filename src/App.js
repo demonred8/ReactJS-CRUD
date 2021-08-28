@@ -1,7 +1,7 @@
+import PizzaMain from "./PizzaMain/PizzaMain";
+
 function App() {
-  return (
-    <h1>CRUD</h1>
-  );
+  return <PizzaMain />;
 }
 
 export default App;
