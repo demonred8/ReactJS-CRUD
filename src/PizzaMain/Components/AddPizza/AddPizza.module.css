@@ -1,0 +1,10 @@
+.add_pizza_window {
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+.add_pizza_input {
+    margin-bottom: 5px;
+    text-align: center;
+}
