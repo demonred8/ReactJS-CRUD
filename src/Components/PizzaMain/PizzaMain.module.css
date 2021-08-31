@@ -1,0 +1,26 @@
+.pizza_main {
+    padding: 30px;
+}
+
+.button_container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+.get_pizzas_button {
+    flex: 1;
+    max-width: 250px;
+    font-size: 1.5rem;
+}
+
+.table {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    background: rgb(200, 237, 247);
+}
+
+.table_container {
+    flex: 1;
+}

@@ -1,0 +1,44 @@
+.edit_pizza_container {
+  flex:1;
+  display:flex;
+}
+
+.edit_pizza_buttons_container {
+  display: flex;
+}
+
+.edit_pizza_button {
+  margin: 5px;
+  font-size: 1.5rem;
+  flex: 1;
+  max-width: 250px;
+}
+
+.add_pizza_window {
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.add_pizza_input {
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.cell {
+    border: 1px solid black;
+    border-radius: 2px;
+    font-size: 1.7rem;
+    text-align: center;
+    min-width: 200px;
+}
+
+.cell_buttons {
+    display: flex;
+}
+
+.cell_button {
+    margin: 5px;
+    flex: 1;
+    font-size: 1.3rem;
+}

@@ -1,4 +1,5 @@
-import PizzaMain from "./PizzaMain/PizzaMain";
+import PizzaMain from "./Components/PizzaMain/PizzaMain";
+
 
 function App() {
   return <PizzaMain />;

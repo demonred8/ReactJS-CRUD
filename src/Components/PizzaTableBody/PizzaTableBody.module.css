@@ -1,0 +1,17 @@
+.cell {
+    border: 1px solid black;
+    border-radius: 2px;
+    font-size: 1.7rem;
+    text-align: center;
+    min-width: 200px;
+}
+
+.main_buttons_container {
+    display: flex;
+}
+
+.button {
+    margin: 5px;
+    flex: 1;
+    font-size: 1.5rem;
+}
